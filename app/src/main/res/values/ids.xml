@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnBack" type="id" />
+    <item name="spName" type="id" />
+    <item name="lvResult" type="id" />
+</resources>
